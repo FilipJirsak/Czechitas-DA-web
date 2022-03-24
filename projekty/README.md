@@ -25,7 +25,7 @@ A samozřejmě je možné zvolit i jiné hry – třeba pexeso, kam si budu moci
 které dávají stejný výsledek). Nebo pexeso se slovíčky cizího jazyka. Nebo se můžete inspirovat třeba ve
 [Velké knize deskových her](https://www.databazeknih.cz/knihy/velka-kniha-deskovych-her-36567) jakoukoli jinou hrou.
 
-## Promítání písňových textů
+## Promítání písňových textů (Karaoke)
 Když se společně zpívá s živou hudbou (třeba na hudební mši), je dobré k tomu promítat texty, protože si je ne každý pamatuje. Promítá se obvykle verš po verši a dnes se k tomu
 obyvkle používá PowerPoint nebo jiný nástroj na prezentace – a ty nástroje na to nejsou úplně vhodné.
 
@@ -62,3 +62,11 @@ Při různých akcích je často potřeba odpočítat nějaký čas – dá se 1
   notifikace („Prodlužujeme přestávku na oběd do 14:00.“).
   
 S výjimkou dvou volitelných funkcí, kde je to uvedeno, je to opět 100% frontend.
+
+## Čtecí zařízení (např. pro podcasty)
+Profesionálové při čtení textů na kameru používají čtecí zařízení, které jim zobrazuje text, který mají říct. Používají to moderátoři v televizi nebo politici při svých projevech. Předmětem projektu je vytvořit webovou aplikaci, která bude fungovat na stejném principu – uživatel si pustí text na tabletu vedle mobilu, nebo na obrazovce počítače pod kamerou, a bude číst text, který si připravil. Jako vylepšení je možné zobrazovat text zrcadlově převrácený bíle na černém – pokud bude mít někdo polopropustné zrcadlo před kamerou, může použít stejný princip, který používají profesionálové.
+Aplikace by umožnila připravit si text ke čtení, uložit ho do souboru a načíst ze souboru. Dále umožní připravit časování (důležitá věc pro nezkušené lidi – čtecí zařízení by mělo užiavtele donutit, aby četl pomalu a tím pečlivěji vyslovoval). Dále může aplikace podporovat další možné funkce:
+* Vzdálené ovládání (zrychlení, zpomalení)
+* Přidávání doplňkových informací – frázování, emoce, gesta…
+* Podpora pro víc lidí – např. barevné odlišení, kdo mluví.
+* Frajeřinka by byla využít [API pro rozpoznávání mluvené řeči](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition), sledovat, co uživatel říká, a podle toho mu přizpůsobit posouvání textu.[](url)
