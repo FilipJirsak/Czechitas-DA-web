@@ -1,6 +1,8 @@
 # Náměty na závěrečné projekty
 
 ## Stolní hry
+![Velká kniha deskových her](https://www.databazeknih.cz/img/books/36_/36567/big_velka-kniha-deskovych-her-LxQ-36567.jpg)
+
 Například člověče nezlob se, dáma, pexeso… Určené primárně pro hraní na tabletu s malými dětmi (předškolními). Když je potřeba vyplnit nějakou volnou chvíli,
 hrací deska, figurky a kostky nemusí být vždy k dispozici, tablet často ano. Na internetu se dá najít spoustu her, ale ta mají třeba jiná pravidla, než na která jsme
 zvyklí – což je pro malé děti komplikace. Navíc jsou obvykle v angličtině, a když hra vypíše _It's your turn, David_, předškolní dítě tomu nerozumí – i když třeba
@@ -26,6 +28,8 @@ které dávají stejný výsledek). Nebo pexeso se slovíčky cizího jazyka. Ne
 [Velké knize deskových her](https://www.databazeknih.cz/knihy/velka-kniha-deskovych-her-36567) jakoukoli jinou hrou.
 
 ## Promítání písňových textů (Karaoke)
+![](https://www.kudyznudy.cz/files/74/7478fb7d-5e64-4500-86a4-b2f362dc4758.jpg?v=20210803132510)
+
 Když se společně zpívá s živou hudbou (třeba na hudební mši), je dobré k tomu promítat texty, protože si je ne každý pamatuje. Promítá se obvykle verš po verši a dnes se k tomu
 obyvkle používá PowerPoint nebo jiný nástroj na prezentace – a ty nástroje na to nejsou úplně vhodné.
 
@@ -45,6 +49,8 @@ Tohle je základ, který je opět 100% frontendový. K tomu se dají přidávat 
   (Akorát pozor na autorská práva k textům.)
   
 ## Časovač pro workshopy a lekce
+![odpočet](https://thumbs.dreamstime.com/z/countdown-timer-digital-counter-circle-smart-phone-ui-design-template-countdown-timer-digital-counter-clock-vector-flat-115007137.jpg)
+
 Při různých akcích je často potřeba odpočítat nějaký čas – dá se 10minutová přestávka, 20 minut na řešení úkolu apod. Ostatně takový časovač znáte z lekcí. Takových
 časovačů je spousta, měl by ho mít v sobě i Google (mělo by fungovat do vyhledávacího pole zadat třeba „set a timer for 5 minutes“ – ale mně to nefunguje). Já si ale myslím,
 že jich ještě není dost a dá se vymyslet další a lepší :-) Co by takový časovač mohl umět:
@@ -64,6 +70,8 @@ Při různých akcích je často potřeba odpočítat nějaký čas – dá se 1
 S výjimkou dvou volitelných funkcí, kde je to uvedeno, je to opět 100% frontend.
 
 ## Čtecí zařízení (např. pro podcasty)
+![čtecí zařízení](https://www.syntex.cz/media/produkty/326/datavideo-tp-300-001.jpg)
+
 Profesionálové při čtení textů na kameru používají čtecí zařízení, které jim zobrazuje text, který mají říct. Používají to moderátoři v televizi nebo politici při svých projevech. Předmětem projektu je vytvořit webovou aplikaci, která bude fungovat na stejném principu – uživatel si pustí text na tabletu vedle mobilu, nebo na obrazovce počítače pod kamerou, a bude číst text, který si připravil. Jako vylepšení je možné zobrazovat text zrcadlově převrácený bíle na černém – pokud bude mít někdo polopropustné zrcadlo před kamerou, může použít stejný princip, který používají profesionálové.
 Aplikace by umožnila připravit si text ke čtení, uložit ho do souboru a načíst ze souboru. Dále umožní připravit časování (důležitá věc pro nezkušené lidi – čtecí zařízení by mělo užiavtele donutit, aby četl pomalu a tím pečlivěji vyslovoval). Dále může aplikace podporovat další možné funkce:
 * Vzdálené ovládání (zrychlení, zpomalení)
