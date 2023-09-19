@@ -1,6 +1,6 @@
 # Náměty na závěrečné projekty
 
-## Stolní hry
+## Deskové hry
 ![Velká kniha deskových her](https://www.databazeknih.cz/img/books/36_/36567/big_velka-kniha-deskovych-her-LxQ-36567.jpg)
 
 Například člověče nezlob se, dáma, pexeso… Určené primárně pro hraní na tabletu s malými dětmi (předškolními). Když je potřeba vyplnit nějakou volnou chvíli,
